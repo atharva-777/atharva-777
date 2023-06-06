@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharva-777](https://github.com/atharva-777)
 
-- 💬 Ask me about **react, node, javascript, c++**
+- 💬 Ask me about **startup, entrepreneurship, web dev, react, node, javascript, c++**
 
 - 📫 How to reach me **jadhavatharva499@gmail.com**
 
