@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-777" alt="atharva-777" /></a> </p>
 
-- 🔭 I’m currently working on [ChatGenius](https://github.com/atharva-777/openai_project)
+- 🔭 I’m currently working on [Trello AI](https://github.com/atharva-777/trello)
 
 - 🌱 I’m currently learning **Web Development , Data Science**
 
