@@ -1,27 +1,26 @@
 <h1 align="center">Hi 👋, I'm Atharva!</h1>
-<h3 align="center">A passionate fullstack developer from Pune,India</h3>
+<h3 align="center">A passionate fullstack developer, problem solver and a curious learner 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-777&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-777" alt="atharva-777" /></a> </p>
 
-- 🔭 I’m currently working on [Trello AI](https://github.com/atharva-777/trello)
+- 🔭 I’m currently working on [UrbaneX](https://github.com/atharva-777/UrbaneX)
 
-- 🌱 I’m currently learning **Web Development , Data Science**
+- 🌱 I’m currently learning **Nextjs ,Backend Development, Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharva-777](https://github.com/atharva-777)
 
-- 💬 Ask me about **startup, entrepreneurship, web dev, react, node, javascript, c++**
+- 💬 Ask me about **startup, entrepreneurship, web dev, react, node, javascript, DSA, c++**
 
-- 📫 How to reach me **jadhavatharva499@gmail.com**
+- 📫 How to reach me [Portfolio](https://atharva-jadhav.vercel.app/) or drop me a mail at [Here](mailto:jadhavatharva499@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-jadhav-833149222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-jadhav-833149222/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/atharva777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/atharva777" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/atharvaaaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/atharvaaaj" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/atharva_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/atharva_777" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/atharva_777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/atharva_777/" height="30" width="40" /></a>
+  <a href="https://dribbble.com/https://dribbble.com/atharva_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/atharva_777" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
