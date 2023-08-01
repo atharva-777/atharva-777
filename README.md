@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-777" alt="atharva-777" /></a> </p>
 
-- 🔭 I’m currently working on [UrbaneX](https://github.com/atharva-777/UrbaneX)
+- 🔭 I’m currently working on [PrepMeister](https://github.com/atharva-777/PrepMeister)
 
-- 🌱 I’m currently learning **Nextjs ,Backend Development, Data Analytics**
+- 🌱 I’m currently learning **Nextjs 13 ,Backend Development, Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atharva-777](https://github.com/atharva-777)
+- 👨‍💻 All of my projects are available at [Portfolio](https://atharva-jadhav.vercel.app/)
 
-- 💬 Ask me about **startup, entrepreneurship, web dev, react, node, javascript, DSA, c++**
+- 💬 Ask me about **startup, entrepreneurship, web dev, nextjs, react, node, javascript, DSA, c++**
 
 - 📫 How to reach me [Portfolio](https://atharva-jadhav.vercel.app/) or drop me a mail at [Here](mailto:jadhavatharva499@gmail.com) 
 
