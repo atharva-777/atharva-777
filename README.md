@@ -1,34 +1,112 @@
-<h1 align="center">Hi 👋, I'm Atharva</h1>
-<h3 align="center">Full stack Developer | Problem Solving</h3>
+# Hi there, I'm Atharva Jadhav 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-777&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-777" /> </p>
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://atharva-jadhav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-jadhav-)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/atharva_777/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/atharvajadhav23)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-777" alt="atharva-777" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/atharvajadhav23" target="blank"><img src="https://img.shields.io/twitter/follow/atharvajadhav23?logo=twitter&style=for-the-badge" alt="atharvajadhav23" /></a> </p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Data science & Machine Learning**
+Software Engineer at **Raja Software Labs** working on large-scale microservices and data processing systems. I build scalable backend services and develop full-stack applications with modern technologies.
 
-- 👨‍💻 All of my projects are available at [portfolio](https://atharva-jadhav.vercel.app/)
+- 🔭 Currently working on **Java microservices, Spring Boot, Kafka, and Airflow pipelines**
+- 🌱 Learning **Golang** by building hands-on projects
+- 💼 Experience with **Next.js, React, GraphQL, Docker, and cloud technologies**
+- 🎯 Previously contributed to a successful beta release at Yoliday LLP
+- 🏆 Flipkart Grid 5.0 Semi-Finalist (Top 1% from 400K participants)
 
-- 💬 Ask me about **react, nextjs and web DSA**
+## 💻 Tech Stack
 
-- 📫 How to reach me **jadhavatharva499@gmail.com**
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-- 📄Resume [Drive link](https://drive.google.com/file/d/1nsQny_Q41v13wdYl1ir9cai0IEd42-VH/view?usp=sharing)
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atharvajadhav23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvajadhav23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atharva-jadhav-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-jadhav-" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atharva_777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva_777/" height="30" width="40" /></a>
-</p>
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-777&show_icons=true&locale=en&layout=compact" alt="atharva-777" /></p>
+## 🎯 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-777&show_icons=true&locale=en" alt="atharva-777" /></p>
+### 🛍️ [MetaMarket](https://github.com/ritesh-15/loyalty_program)
+Blockchain-based e-commerce loyalty system with token rewards for purchases, referrals, and engagement.
+- **Tech**: Next.js, TypeScript, PostgreSQL, Node.js, Solidity, Strapi
+- **Features**: Token management, reward tracking, secure transactions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-777&" alt="atharva-777" /></p>
+### 💻 [PrepMeister](https://github.com/atharva-777/PrepMeister)
+LeetCode-inspired platform for interview preparation with real-time collaboration.
+- **Tech**: Next.js, TypeScript, Node.js, Express.js, MongoDB, Socket.IO
+- **Impact**: Reduced data retrieval time by 30% with optimized REST APIs
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva-777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharva-777&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+## 🏆 Achievements
+
+- 🥈 **Flipkart Grid 5.0 Hackathon Semi-Finalist** - Top 1% (4000/400K participants)
+- 🎤 **Keynote Speaker** at GitHub workshop for 150+ students
+- 🎓 **B.Tech in Information Technology** with 9.03 CGPA
+
+## 💼 Professional Experience
+
+**Software Engineer** @ Raja Software Labs _(Feb 2025 - Present)_
+- Working on Java-based microservices supporting LinkedIn's reporting ecosystem
+- Implementing real-time data processing with Kafka, Apache Beam, and Flink
+- Debugging and optimizing Airflow DAGs for workflow stability
+
+**Fullstack Developer** @ Yoliday LLP _(May 2024 - Jan 2025)_
+- Led backend development for successful beta release
+- Improved efficiency by 30% through SEO optimization and feature implementation
+- Increased user engagement by 25% with intuitive dashboard design
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [atharva-jadhav-](https://linkedin.com/in/atharva-jadhav-)
+- 🌐 Portfolio: [atharva-jadhav.vercel.app](https://atharva-jadhav.vercel.app/)
+- 📧 Email: jadhavatharva499@gmail.com
+- 📄 [Resume](https://drive.google.com/file/d/1Z3mxrPhOFSvlYSdlfSzB3wMsFC1BqF6p/view?usp=sharing)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=atharva-777&label=Profile%20views&color=0e75b6&style=flat)
+
+**"Building scalable systems, one commit at a time"** 🚀
+
+</div>
