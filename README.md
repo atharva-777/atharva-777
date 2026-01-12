@@ -67,13 +67,9 @@ LeetCode-inspired platform for interview preparation with real-time collaboratio
 ## 📊 GitHub Stats
 
 <div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-psi-orpin.vercel.app/?user=atharva-777)](https://git.io/streak-stats)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva-777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharva-777&theme=radical&hide_border=true&background=0D1117)
-
 </div>
 
 ## 🏆 Achievements
